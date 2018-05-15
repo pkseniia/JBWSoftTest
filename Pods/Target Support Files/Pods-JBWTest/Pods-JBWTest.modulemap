@@ -1,0 +1,6 @@
+framework module Pods_JBWTest {
+  umbrella header "Pods-JBWTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
